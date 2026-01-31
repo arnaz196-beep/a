@@ -1,5 +1,4 @@
-- name: Setup Luau
-  uses: ewd3v/setup-luau@v0.1.0
+
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local player = Players.LocalPlayer
